@@ -1,8 +1,12 @@
 # Практика 2 - 2024-08-15
 
-Покладіть в цю папку будь-які файли, котрі ви будете створювати в рамках робити
-над практичним завданням номер 2.  Детальний перелік дивіться в Google
-Classroom.
+<div align="center">
+  <p style="font-size:20px;">check-balance.ts</p>
 
-Не забудьте зберігти свою роботу (`git add`/`git commit`) та викласти її на
-GitHub (`git push`).
+  <img src="./img/check-balance.png" alt="Example Image" style="width:900px;"/>
+</div>
+<div align="center">
+  <p style="font-size:20px;">wallet</p>
+
+  <img src="./img/wallet.png" alt="Example Image" style="width:400px;"/>
+</div>
